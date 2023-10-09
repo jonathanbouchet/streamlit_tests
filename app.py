@@ -1,16 +1,16 @@
 import streamlit as st
 
-st.set_page_config(
-    page_title="Ex-stream-ly Cool App",
-    page_icon="🧊",
-    layout="wide",
-    initial_sidebar_state="expanded",
-    menu_items={
-        'Get Help': "https://reflexive.ai",
-        'Report a bug': "https://reflexive.ai",
-        'About': "# REFLEXIVE.AI\n ## VIRTUAL AGENTS TO HELP YOU GROW YOUR BUSINESS \nhttps://reflexive.ai"
-    }
-)
+# st.set_page_config(
+#     page_title="Ex-stream-ly Cool App",
+#     page_icon="🧊",
+#     layout="wide",
+#     initial_sidebar_state="expanded",
+#     menu_items={
+#         'Get Help': "https://reflexive.ai",
+#         'Report a bug': "https://reflexive.ai",
+#         'About': "# REFLEXIVE.AI\n ## VIRTUAL AGENTS TO HELP YOU GROW YOUR BUSINESS \nhttps://reflexive.ai"
+#     }
+# )
 
 # Add custom CSS to hide the GitHub icon
 # hide_github_icon = """
